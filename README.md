@@ -1,5 +1,7 @@
 [![CI Pipeline](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/actions/workflows/main.yaml/badge.svg)](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/actions/workflows/main.yaml)
 
+![Logo](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/blob/c903bc6ce3243e681a8957bb93d594ce3798427d/data/olympic_games_logo.png)
+
 # Cloud Host Notebook with the analysis of Olympics Data
 
 This project explores cloud-hosted data analysis using Jupyter notebooks. The goal is to perform data processing, analysis, and verification of datasets in cloud. This projected aimed to make analysis of the olympic games. For reading more about the .ipynb file in [Google Colab](https://colab.research.google.com/drive/1rBMpix_ahFG6xEcpPpAkGfdfrdVo6DkP?usp=sharing)
@@ -74,6 +76,7 @@ make test_file
 ```
 This will execute only the cells tagged with `test-me`, ensuring that specific sections of your notebook are verified.
 
+![Test](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/blob/main/data/test_success.png)
 
 ## Linting and Formatting
 
