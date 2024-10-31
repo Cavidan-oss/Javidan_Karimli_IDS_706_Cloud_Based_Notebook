@@ -1,3 +1,4 @@
+[![CI Pipeline](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/actions/workflows/main.yaml/badge.svg)](https://github.com/Cavidan-oss/Javidan_Karimli_IDS_706_Cloud_Based_Notebook/actions/workflows/main.yaml)
 
 # Cloud Host Notebook with the analysis of Olympics Data
 
