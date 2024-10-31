@@ -1,7 +1,7 @@
 
 # Project Title: Cloud Hosted Data Analysis
 
-This project explores cloud-hosted data analysis using Jupyter notebooks. The goal is to perform data processing, analysis, and verification of datasets in cloud. This projected aimed to make analysis of the olympic games. For reading more about the .ipynb file ![Colab Link](https://colab.research.google.com/drive/1rBMpix_ahFG6xEcpPpAkGfdfrdVo6DkP?usp=sharing)
+This project explores cloud-hosted data analysis using Jupyter notebooks. The goal is to perform data processing, analysis, and verification of datasets in cloud. This projected aimed to make analysis of the olympic games. For reading more about the .ipynb file [Colab Link](https://colab.research.google.com/drive/1rBMpix_ahFG6xEcpPpAkGfdfrdVo6DkP?usp=sharing)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -25,17 +25,10 @@ To run this project locally, follow these steps:
    cd <repository-directory>
    ```
 
-2. Set up a virtual environment:
-   ```bash
-   python3 -m venv env
-   source env/bin/activate  # For Linux/macOS
-   # For Windows:
-   # .\env\Scripts\activate
-   ```
 
-3. Install the dependencies:
+2. Install the dependencies:
    ```bash
-   pip install -r requirements.txt
+    make install
    ```
 
 ## Dependencies
@@ -46,7 +39,7 @@ This project requires the following packages (list might vary based on your setu
 - pytest
 - pandas
 - numpy
-- matplotlib (if visualization is used)
+- matplotlib 
 
 Make sure to have these packages installed either by using `requirements.txt` or by manually installing them with:
 ```bash
